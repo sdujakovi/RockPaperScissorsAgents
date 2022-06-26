@@ -1,5 +1,3 @@
-import asyncio
-import time
 import random
 
 from spade.agent import Agent
